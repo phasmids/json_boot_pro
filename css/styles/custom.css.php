@@ -125,6 +125,7 @@ h3 {
  font-size: 1.5em;
  letter-spacing: -0.5px;
  margin: 18px 0px 11px 0px;
+ color: #222; /* manually set color to override that fact that somewhere it's being set to dark red */
  }
 
 h4 {
