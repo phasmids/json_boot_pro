@@ -97,6 +97,11 @@ body #jsn-menu ul.menu-mainmenu li a span {
 
 /* DO NOT DELETE: Added by Natalie - edit in custom.css.php */
 
+#jsn-header {
+  background-image:none;
+  background-color:#404040;
+}
+
 a {
  color: #028d20;
  }
@@ -174,3 +179,5 @@ table, th, td {
 }
 
 /* DO NOT DELETE:  end of css added by Natalie */
+
+
